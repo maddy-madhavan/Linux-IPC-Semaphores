@@ -1,8 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 ```
- Name: DHARSHINI S N
- Register No: 212224230062
+ Name: madhavan k
+ Register No: 212224220054
 ```
 
 # AIM:
